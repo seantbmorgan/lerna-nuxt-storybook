@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "packages/*",
+    "nuxtapp/**"
+  ],
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent"
+}

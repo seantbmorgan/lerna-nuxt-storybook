@@ -1,0 +1,11 @@
+{
+    "name": "@stbm/header",
+    "version": "0.0.0",
+    "description": "Just a simple header component",
+    "main": "dist/index.umd.js",
+    "module": "src/index.js",
+    "license": "MIT",
+    "scripts": {
+      "transpile": "vue-cli-service build --target lib ./src/index.js --filename index"
+    }
+  }
