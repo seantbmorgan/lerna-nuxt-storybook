@@ -1,5 +1,5 @@
 <template>
-  <button type="button"><slot></slot></button>
+  <button type="button" class="rounded-lg p-6"><slot></slot></button>
 </template>
 
 <script>

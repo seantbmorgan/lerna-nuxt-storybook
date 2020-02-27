@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import { storiesOf } from '@storybook/vue';
 import StbmButton from './StbmButton/StbmButton.vue';
+import "../.storybook/tailwind.css";
 
 storiesOf('StbmButton', module)
   .add('as a component', () => ({
